@@ -1,4 +1,4 @@
-# Quasar App (calculator)
+# Quasar App (currency_converter)
 
 A Quasar Framework app
 

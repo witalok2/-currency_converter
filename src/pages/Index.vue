@@ -290,12 +290,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  // .page {
-  //   height: 0vh;
-  //   width: 100vw;
-  //   background-color: #26343e;
-  // }
-
   .home {
     padding-top: 40px;
     align-items: center;
@@ -307,9 +301,6 @@ export default {
 
   .card {
     padding: 10px 10px 10px 10px;
-    // border-radius: 4%;
-    // border-bottom-right-radius: 8%;
-    // box-shadow: 3px 8px 8px #cccccc52;
     background-color: #f8f8ff;
   }
 
