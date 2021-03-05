@@ -1,4 +1,4 @@
-# Currency Converter
+# Digital Currency Converter
 
 ## About The Project
 
