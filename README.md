@@ -1,26 +1,34 @@
-# Quasar App (currency_converter)
+# Currency Converter
 
-A Quasar Framework app
+## About The Project
 
-## Install the dependencies
+### Using 
 ```bash
-npm install
+° VueJS
+° HTML
+° SCSS
+° JS
+° Remixicon
+° Quasar
+° Axios
+° API (consumindo api externa)
+° LocalStorage set/get
+° Git
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Moedas para conversão 
 ```bash
+° BRL
+° USD
+° EUR
+° BTN
+```
+
+### Execurtar o projeto
+```bash
+npm install
+
 quasar dev
 ```
 
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+![image](https://user-images.githubusercontent.com/6981286/109897858-b67d3000-7c69-11eb-83cd-2c6ca1bd79f2.png)
