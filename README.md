@@ -5,14 +5,13 @@
 ### Using 
 ```bash
 ° VueJS
-° HTML
-° SCSS
-° JS
-° Remixicon
 ° Quasar
 ° Axios
+° JS
+° HTML
+° SCSS
+° Remixicon
 ° API (consumindo api externa)
-° LocalStorage set/get
 ° Git
 ```
 
